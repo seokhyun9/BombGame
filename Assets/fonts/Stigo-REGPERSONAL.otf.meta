@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1bf076eb89da6a6498e58bdfc232a14e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Stigo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c5d061e3ac1e1ee4cad4974277251e72, type: 3}
+  - {fileID: 12800000, guid: d64ef28ce99117347b9f33d02e75c533, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
